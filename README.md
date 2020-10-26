@@ -19,6 +19,8 @@ I hope to keep the boilerplate updated as I continue to learn about more useful 
 3. Create the new repo:
  `gh repo create <project name> --template https://github.com/daaf/js-boilerplate.git`.
  
+4. Pull from the remote repo on GitHub: `git pull origin master`
+ 
 4. Rename the project in `package.json` and `package-lock.json`.
 
 5. Install dev dependencies:
