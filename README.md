@@ -26,4 +26,4 @@ I hope to keep the boilerplate updated as I continue to learn about more useful 
 5. Install dev dependencies:
  `npm install`.
  
- 6. Delete this readme :)
+ 6. Delete this readme :grin:
