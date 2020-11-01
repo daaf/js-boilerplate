@@ -3,7 +3,7 @@ Super basic boilerplate for a Javascript webapp.
 
 ## About
 This is for my personal use, and I'm a beginner, so there's not much to it. For now, it contains:
-- Basic project structure: src and dist directories, requisite index.html, index.js, and styles.css files
+- Basic project structure: **src** and **dist** directories, requisite **index.html**, **index.js**, and **styles.css** files
 - Basic NPM config
 - Basic Webpack config
 - A few NPM scripts to build and serve the Webpack bundle
@@ -24,3 +24,5 @@ I hope to keep the boilerplate updated as I continue to learn about more useful 
 
 5. Install dev dependencies:
  `npm install`.
+ 
+ 6. Delete this readme :grin:
