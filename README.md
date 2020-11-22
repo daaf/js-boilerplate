@@ -1,12 +1,14 @@
 # js-boilerplate
 Super basic boilerplate for a Javascript webapp.
 
+## About
 This is for my personal use, and I'm a beginner, so there's not much to it. For now, it contains:
 - Basic project structure: **src** and **dist** directories, requisite **index.html**, **index.js**, and **styles.css** files
 - Basic NPM config
 - Basic Webpack config
 - Basic ESLint config
 - A few NPM scripts to run Webpack commands
+- A few NPM scripts to build and serve the Webpack bundle
 - A few Webpack loaders:  style-loader, css-loader, file-loader, babel-loader
 
 I hope to keep the boilerplate updated as I continue to learn about more useful tools and adopt them into my workflow.
@@ -20,9 +22,7 @@ I hope to keep the boilerplate updated as I continue to learn about more useful 
 3. Create the new repo:
  `gh repo create <project name> --template https://github.com/daaf/js-boilerplate.git`.
  
-4. From the project directory, pull from the remote repo on GitHub: `git pull origin master`
- 
-4. Rename the project in `package.json` and `package-lock.json`.
+4. Rename the project in **package.json** and **package-lock.json**.
 
 5. Install dev dependencies:
  `npm install`.
