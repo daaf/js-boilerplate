@@ -5,6 +5,7 @@ This is for my personal use, and I'm a beginner, so there's not much to it. For 
 - Basic project structure: **src** and **dist** directories, requisite **index.html**, **index.js**, and **styles.css** files
 - Basic NPM config
 - Basic Webpack config
+- Basic ESLint config
 - A few NPM scripts to run Webpack commands
 - A few Webpack loaders:  style-loader, css-loader, file-loader, babel-loader
 
