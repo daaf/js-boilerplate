@@ -4,7 +4,7 @@ Super basic boilerplate for a Javascript webapp.
 
 ## About
 
-This is for my personal use, and I'm a beginner, so there's not much to it. For now, it contains:
+This is for my personal use, so there's not much to it. For now, it contains:
 
 -   Basic project structure: **src** and **dist** directories, requisite **index.html**, **index.js**, and **styles.css** files
 -   Basic NPM config
