@@ -27,11 +27,11 @@ I hope to keep the boilerplate updated as I continue to learn about more useful 
 3. Create the new repo:
    `gh repo create <project name> --template https://github.com/daaf/js-boilerplate.git`.
 
-4. From the project directory, pull from the remote repo on GitHub: `git pull origin master`
+4. From the project directory, pull from the remote repo on GitHub: `git pull origin master`.
 
 5. Rename the project in **package.json** and **package-lock.json**.
 
 6. Install dev dependencies:
    `npm install`.
 
-7. Delete this readme :grin:
+7. Delete this readme :grin:.
