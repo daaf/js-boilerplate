@@ -1,20 +1,27 @@
 # js-boilerplate
 
-Super basic boilerplate for a Javascript webapp.
+Framework-less boilerplate for a Javascript webapp.
 
 ## About
 
-This is for my personal use, so there's not much to it. For now, it contains:
+This is for my personal use&mdash;there's not much to it. The boilerplate consists of:
 
--   Basic project structure: **src** and **dist** directories, requisite **index.html**, **index.js**, and **styles.css** files
+-   Basic project structure:
+      -   **src** and **dist** directories
+      -   Requisite **index.html**, **index.js**, and **styles.css** files
 -   Basic NPM config
 -   Basic Webpack config
 -   Basic ESLint and Prettier config
--   A few NPM scripts to run Webpack commands
--   A few NPM scripts to build and serve the Webpack bundle
--   A few Webpack loaders: style-loader, css-loader, file-loader, babel-loader
+-   NPM scripts to:
+      -   Run Webpack commands
+      -   Build and serve the Webpack bundle
+-   A few Webpack loaders:
+      -   style-loader
+      -   css-loader
+      -   file-loader
+      -   babel-loader
 
-I hope to keep the boilerplate updated as I continue to learn about more useful tools and adopt them into my workflow.
+I hope to keep the boilerplate updated as I continue to learn about useful tools in the JS ecosystem and adopt them into my workflow.
 
 ## To Use:
 
